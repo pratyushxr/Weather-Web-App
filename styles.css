@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+    margin-top: 50px; /* Adjust margin as needed */
+}
+
+.input-container {
+    max-width: 400px; /* Adjust width as needed */
+    margin: 0 auto 20px; /* Center horizontally and add margin at bottom */
+}
+
+.input-container input {
+    width: 70%; /* Adjust input width as needed */
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.input-container button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
