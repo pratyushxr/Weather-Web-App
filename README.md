@@ -10,7 +10,7 @@
 
 ## Credits
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/)
-- Developed by [Your Name]
+- Developed by [Pratyush R]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
